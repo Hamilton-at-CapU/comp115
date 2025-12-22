@@ -1,2 +1,2 @@
 # comp115
-Exercises, labs, notes, and assignments for COMP 115 course.  These are based on Allen Downey's Think Python book.
+Exercises, labs, notes, and assignments for the COMP 115 course at Capilano University.  These are based on [*Think Python*, 3rd edition](https://greenteapress.com/wp/think-python-3rd-edition), by Allen B. Downey.
