@@ -34,8 +34,8 @@ def process_notebook(source, target):
 
 # Collect a list of the notebooks in the solutions folders
 # select either lesson or lab
-directory = 'labs'
-#directory = 'lessons'
+#directory = 'labs'
+directory = 'lessons'
 
 sources = glob(f"../solutions/{directory}/*.ipynb")
 
