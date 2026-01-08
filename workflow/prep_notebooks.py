@@ -36,10 +36,11 @@ def process_notebook(source, target):
 # select either lesson or lab
 #directory = 'labs'
 directory = 'lessons'
+for directory in ['lessons', 'labs']:
 
-sources = glob(f"../solutions/{directory}/*.ipynb")
+    sources = glob(f"../solutions/{directory}/*.ipynb")
 
-for source in sorted(sources):
-    target = f"../workbooks/{directory}/{source.split('/')[-1]}"
-    print(f'processing {source} to {target}')
-    process_notebook(source, target)
+    for source in sorted(sources):
+        target = f"../workbooks/{directory}/{source.split('/')[-1]}"
+        print(f'processing {source} to {target}')
+        process_notebook(source, target)
