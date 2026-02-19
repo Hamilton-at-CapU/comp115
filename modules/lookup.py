@@ -28,3 +28,4 @@ GENETIC_CODE = {
   'STOP'          : ('TAA', 'TGA', 'TAG'),
 }
 
+print('lookup.py has been imported, GENETIC_CODE dictionary is available.')
