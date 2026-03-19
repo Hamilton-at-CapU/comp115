@@ -1,0 +1,45 @@
+# this is a list of cheeses requested in Monty Python's Cheese Shop sketch
+# https://www.youtube.com/watch?v=B3KBuQHHKx0
+Red Leicester
+Tilsit
+Caerphilly
+Bel Paese
+Red Windsor
+Stilton
+Ementhal
+Gruyere
+Norweigan Jarlsburg
+Lipta
+Lancashire
+White Stilton
+Danish Brew
+Double Goucester
+Cheshire
+Dorset Bluveny
+Brie
+Roquefort
+Pol le Veq
+Port Salut
+Savoy Aire
+Saint Paulin
+Carrier de lest
+Bres Bleu
+Bruson
+Camenbert
+Gouda
+Edam
+Case Ness
+Smoked Austrian
+Japanese Sage Darby
+Wenslydale
+Greek Feta
+Gorgonzola
+Parmesan
+Mozzarella
+Paper Cramer
+Danish Bimbo
+Czech sheep's milk
+Venezuelan Beaver Cheese
+Cheddar
+Illchester
+Limburger
